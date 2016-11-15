@@ -1,2 +1,2 @@
-# openxtra-org
-Sources for the openxtra.org website.
+# openxtra.github.io
+Sources for the openxtra.github.io website.
