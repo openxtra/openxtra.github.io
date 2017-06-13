@@ -1,0 +1,26 @@
+title: OPENXTRA Freestuff
+email: info@openxtra.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  OPENXTRA Ltd. has been around for a while and has, in the modern start-up parlance, pivoted a few times. We have built up a lot of software and content that doesn't really belong on the main website anymore. That's why the OPENXTRA Freestuff website was born as a place to put all of the content that would otherwise go to waste.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://openxtra.org"
+twitter_username: openxtrahq
+github_username:  openxtra
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+include: ['_pages']
+google_site_verification: bf2X4PNWswROX184JCDFQ--UFluDNteMq4vNS_MQye4
+collections:
+  projects:
+        output: true
+  
+
