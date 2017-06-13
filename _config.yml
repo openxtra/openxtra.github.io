@@ -19,6 +19,7 @@ exclude:
   - CNAME
 include: ['_pages']
 google_site_verification: bf2X4PNWswROX184JCDFQ--UFluDNteMq4vNS_MQye4
+google_analytics: UA-71383-43
 collections:
   projects:
         output: true
