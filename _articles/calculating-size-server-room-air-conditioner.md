@@ -2,7 +2,7 @@
 title: How to Calculate the Size of a Server Room Air Conditioner
 permalink: calculation-size-server-room-air-conditioner.html
 layout: page
-description: A rough, 'back of the fag packet' calculation for calculating the size of your server room air conditioner.
+description: A rough, 'back of the fag packet' calculation for sizing your server room air conditioner.
 ---
 
 Fire regulations often require that server rooms have levels of insulation far above that of a normal office. Providing sufficient cooling is essential to ensure reliable running of servers, routers, switches and other critical equipment. Failure of the air conditioning can have serious consequences for the equipment itself and for your company. Early warning of problems and spare capacity in the cooling system are both highly desirable.
