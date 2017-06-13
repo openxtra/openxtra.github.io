@@ -4,7 +4,9 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Projects</h1>
+  <h1 class="page-heading">OPENXTRA Freestuff</h1>
+
+  <h2>Projects</h2>
   
   <p>Projects that OPENXTRA has created over the last few years. Ranging from a small Wordpress widget for displaying the most popular articles on a blog, all the way up to a full feature time series database. If you'd like to know more about any of the projects, please <a href="https://www.openxtra.co.uk/contact-us/">get in touch</a>.</p>
 
@@ -15,6 +17,21 @@ layout: default
           <a class="post-link" href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
         </h2>
         <p>{{ project.description | markdownify }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Articles</h2>
+  
+  <p>Articles that OPENXTRA has created over the last few years that don't really find a home on the main website.</p>
+
+  <ul class="post-list">
+    {% for article in site.articles %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ article.url | relative_url }}">{{ article.title | escape }}</a>
+        </h2>
+        <p>{{ article.description | markdownify }}</p>
       </li>
     {% endfor %}
   </ul>
