@@ -1,6 +1,6 @@
 B---
-title: ntop-xtra
-permalink: 
+title: NTop-XTRA
+permalink: ntop-xtra.html
 layout: page
 description: NTop-XTRA was an easy to install distribution of NTop for Microsoft Windows. It has now been discontinued.
 ---
@@ -12,6 +12,4 @@ The reason we have been forced to withdraw the packages is because the downloads
 One of the download sites may have a copy, though I can`t guarantee exactly what they are storing.
 
 Please don`t email asking for a copy because I don`t have one available. If I make one available publicly, then the problem we`re trying to solve will just come straight back. And don`t ask if we can email it because our email server won`t cope with that and I doubt yours will either. Sorry. If you are going to be pissed at anybody please direct your ire to whomever was abusing our service in the first place.
-
-
 
