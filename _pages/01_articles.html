@@ -1,0 +1,18 @@
+---
+layout: page
+title: Articles
+permalink: /articles.html
+---
+<p>Articles that OPENXTRA has created over the last few years that don't really find a home on the main website.</p>
+<ul class="post-list">
+  {% for article in site.articles %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ article.url | relative_url }}">{{ article.title | escape }}</a>
+      </h2>
+      <p>{{ article.description | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
+<p>If you wish to contact OPENXTRA for any reason, please <a href="https://www.openxtra.co.uk/contact-us/">get in touch</a>.</p>
+

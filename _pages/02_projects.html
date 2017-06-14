@@ -1,0 +1,20 @@
+---
+layout: page
+title: Projects
+permalink: /projects.html
+---
+<p>Projects that OPENXTRA has created over the last decade or so. Ranging from a small Wordpress widget for display ing the most popular articles on a blog, all the way up to a full feature time series database.</p>
+
+<ul class="post-list">
+  {% for project in site.projects %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
+      </h2>
+      <p>{{ project.description | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<p>If you wish to contact OPENXTRA for any reason, please <a href="https://www.openxtra.co.uk/contact-us/">get in touch</a>.</p>
+
