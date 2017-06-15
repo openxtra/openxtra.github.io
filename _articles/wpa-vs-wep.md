@@ -1,5 +1,5 @@
 ---
-title: WPA vs WEP: How your Choice Affects your Wireless Network Security
+title: "WPA vs WEP: How your Choice Affects your Wireless Network Security"
 permalink: wpa-vs-wep.html
 layout: page
 description: An exploration of the reasons why WPA provides stronger wireless security than WEP in your wireless network.
