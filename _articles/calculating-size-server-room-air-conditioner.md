@@ -73,5 +73,5 @@ Larger units may be rated in tons of cooling. 1 ton of cooling is equivalent to 
 
 ## Disclaimer
 
-This calculation is intended as a rough guide only. Complete accuracy canot be guaranteed. Before you decide on an air conditioning unit you should commission an audit from a suitably qualified air conditioning equipment specialist or installer.
+This calculation is intended as a rough guide only. Complete accuracy cannot be guaranteed. Before you decide on an air conditioning unit you should commission an audit from a suitably qualified air conditioning equipment specialist or installer.
 
