@@ -4,7 +4,6 @@ permalink: network-simulation.html
 layout: page
 description: Network simulation is a much underestimated tool in the network managers arsenal. When used properly they can help take some of the guesswork out of network planning.
 ---
-
 ## What is Network Simulation?
 
 Network simulators attempt to model real world networks. The idea being that if a system can be modeled, then features of the model can be changed and the results analyzed. As the process of model modification is relatively cheap then a wide variety of scenarios can be analyzed at low cost (relative to making changes to a real network).

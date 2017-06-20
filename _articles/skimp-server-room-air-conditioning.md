@@ -4,7 +4,6 @@ permalink: skimp-server-room-air-conditioning.html
 layout: page
 description: The following is an excerpt from a reply by Robert G. Brown, Duke University first posted on the Beowulf mailing list. Just how crucial adequate air conditioning is, the relative costs, and the fall-out he experienced for months after an AC failure is clearly illustrated.
 ---
-
 AC’s that fail, people that turn off the AC just for a silly reason like it is  		winter outside and cold (so why would you need air conditioning?) People who are  		trying to paint in the server room without supervision who helpfully cover the servers  		with plastic; failing cooling fans; a purchase decision that (as it turned out) left us  		with a pile of some of the most temperature-temperamental boxes on the planet.
 
 One thing to make clear is that this isn’t just about running ambient air a bit  		warmer than you should. It is about setting up your facility to remove heat.  		Remember, the nodes GENERATE heat. It can be cold outside, dead of winter,  		-20°C and with a cold wind blowing and a midsize room with 64 nodes in it will  		be burning between 6 and 15 kilowatts. That’s enough heat to keep a small log cabin  		chinked with paper towels toasty warm in the middle of winter.

@@ -4,7 +4,6 @@ permalink: network-configuration-management.html
 layout: page
 description: An exploration of the reasons why you should be interested in network configuration management. An outline is also presented of the available tools.
 ---
-
 ## What is Network Configuration Management?
 
 Network configuration management allows you to control changes to the configuration of your network devices, like switches and routers. Using configuration management tools you can make changes to the configuration of a router, then roll the changes back to a previous configuration if the changes weren’t successful. Contrast the previous situation with a network configuration management system with the situation without a network configuration management system. You would make the changes, hopefully remembering to document what you changed. If the changes weren’t successful you would, at best, then have to undo the changes you made manually from your documentation. At worst, you would be left with trying to remember what was changed and why.
