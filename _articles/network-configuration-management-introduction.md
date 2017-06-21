@@ -1,7 +1,6 @@
 ---
 title: Network Configuration Management Introduction
 permalink: network-configuration-management.html
-layout: page
 description: An exploration of the reasons why you should be interested in network configuration management. An outline is also presented of the available tools.
 ---
 ## What is Network Configuration Management?

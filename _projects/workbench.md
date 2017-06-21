@@ -1,7 +1,6 @@
 ---
 title: Constraint Workbench
 permalink: workbench.html
-layout: page
 description: An experiment to build a constraint workbench.
 ---
 

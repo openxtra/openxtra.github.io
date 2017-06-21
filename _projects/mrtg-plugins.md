@@ -1,7 +1,6 @@
 ---
 title: MRTG Plugins
 permalink: mrtg-plugins.html
-layout: page
 description: MRTG plugins for a range of Sensatronics environmental monitoring products.
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Warthog
 permalink: warthog.html
-layout: page
 description: A simple Magento 2 theme. 
 ---
 

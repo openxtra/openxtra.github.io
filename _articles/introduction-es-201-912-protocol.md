@@ -1,6 +1,5 @@
 ---
 title: "Introduction to the ES 201 912 Protocol"
-layout: page
 description: The ES 201 912 protocol defines how Short Message Service (SMS) messages will be sent to/from mobile and landline telephone networks.
 permalink: introduction-es-201-912-protocol.html
 ---

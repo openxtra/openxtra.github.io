@@ -1,7 +1,6 @@
 ---
 title: spready
 permalink: spready.html
-layout: page
 description: A command line spreadsheet compiler.
 ---
 

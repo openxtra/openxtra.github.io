@@ -1,7 +1,6 @@
 ---
 title: Why do People Write Open Source Software?
 permalink: why-do-people-write-open-source-software.html
-layout: page
 description: A common misconception of the hacker is that they are amateurs sitting at home night after night writing open source software for fun. Whilst I am sure that this is indeed true in some instances, I doubt that it is true for the majority. The open source software I have seen is too good to be done by people who aren’t very talented, experienced engineers.
 ---
 One should always remember that each open source project has at least one gatekeeper. If the gatekeeper does not believe that a  						given contribution is a valid addition to a project, then the contribution  						will be rejected. Open source isn’t quite the free-for-all that  						some believe. There are quality controls in place to ensure that  						only appropriate, quality contributions are made.
