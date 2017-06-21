@@ -21,7 +21,6 @@ exclude:
   - Gemfile.lock
   - CNAME
   - LICENSE
-  - README.md
 include: ['_pages']
 google_analytics: UA-71383-43
 collections:
