@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://openxtra.org"
 twitter_username: openxtrahq
 github_username:  openxtra
+copyright_notice: "Copyright &copy; 2003-2017 OPENXTRA Limited. All rights reserved."
 
 # Build settings
 markdown: kramdown
