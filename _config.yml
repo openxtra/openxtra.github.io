@@ -40,5 +40,5 @@ defaults:
       type: "articles"
     values:
       layout: "article"
-      author: "Jack Hughes"
+      author: jack
 

@@ -7,7 +7,8 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {% if page.author %}
-         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+         {% assign author = site.data.authors[page.author] %}
+         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a rel="author" href="{{ author.url }}">{{ author.name }}</a></span></span>
       {% endif %}</p>
   </header>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Calculate the Size of a Server Room Air Conditioner
 permalink: calculation-size-server-room-air-conditioner.html
-author: Denis Laverty
+author: denis
 description: A quick guide to how to work out your requirements for an air conditioning unit for your Server Room or Data Center.
 ---
 In principle it is easy to calculate the size of air conditioning unit you need for your Server Room, just add together all the sources of heat and install an air conditioning unit that can remove that much. In practice it's rather more complicated.
