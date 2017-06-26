@@ -1,6 +1,7 @@
 ---
 title: Skimp on Server Room Air Conditioning? At Your Peril
 permalink: skimp-server-room-air-conditioning.html
+author: Robert G. Brown
 description: The following is an excerpt from a reply by Robert G. Brown, Duke University first posted on the Beowulf mailing list. Just how crucial adequate air conditioning is, the relative costs, and the fall-out he experienced for months after an AC failure is clearly illustrated.
 ---
 AC’s that fail, people that turn off the AC just for a silly reason like it is  		winter outside and cold (so why would you need air conditioning?) People who are  		trying to paint in the server room without supervision who helpfully cover the servers  		with plastic; failing cooling fans; a purchase decision that (as it turned out) left us  		with a pile of some of the most temperature-temperamental boxes on the planet.

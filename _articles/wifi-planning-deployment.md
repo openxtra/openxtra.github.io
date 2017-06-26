@@ -1,6 +1,7 @@
 ---
 title: Wireless Network Planning and Deployment
 permalink: wifi-planning-deployment.html
+author: Denis Laverty
 description: Planning a WiFi (wireless) network is similar in many respects to planning a wired network. You have to consider all the basics, how many users do you need to accommodate, where are you going to deploy the solution and so on. But wireless also brings with its own set issues, chief amongst these is the common perception that WiFi is insecure.
 ---
 This document attempts to explain how you should go about building a wireless LAN, the issues involved and the areas that you should be concerned about.

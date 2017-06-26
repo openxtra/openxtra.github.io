@@ -1,6 +1,7 @@
 ---
 title: "Wireless Network Security vs Wire Based Network Security"
 permalink: wireless-vs-wired-network-security.html
+author: Denis Laverty
 description: A discussion of wireless network security and how it differs from the security required for a traditional wire based network.
 ---
 One of the hot topics in network management at the moment is how to secure a wireless network. I'm not going to go into depth about wireless security as there are far better sources for that than me. For those interested in an in-depth analysis this [page](http://www.drizzle.com/%7Eaboba/IEEE/) contains a lot of links to appropriate material. Be warned however, it is heavy going!

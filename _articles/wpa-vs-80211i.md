@@ -1,6 +1,7 @@
 ---
 title: "WPA vs WPA2 (802.11i): How your Choice Affects your Wireless Network Security"
 permalink: wpa-vs-80211i.html
+author: Denis Laverty
 description: A discussion of why 802.11i (WPA2) provides stronger wireless security than WiFi Protected Access (WPA) and WEP, why there is a need for a new standard and why you should use it.
 ---
 WPA has, rightly, been admired as a masterpiece of retro engineering. It addresses the weaknesses of WEP and the result is a very secure security system that is backwardly compatible with most existing WiFi compliant equipment. WPA is a practical solution that will provide more than adequate security for most wireless network applications.

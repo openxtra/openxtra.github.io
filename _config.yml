@@ -39,5 +39,6 @@ defaults:
       path: ""
       type: "articles"
     values:
-      layout: "page"
+      layout: "article"
+      author: "Jack Hughes"
 
