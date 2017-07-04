@@ -2,7 +2,7 @@
 title: "Introduction to the ES 201 912 Protocol"
 author: denis
 description: The ES 201 912 protocol defines how Short Message Service (SMS) messages will be sent to/from mobile and landline telephone networks.
-permalink: introduction-es-201-912-protocol.html
+redirect_from: introduction-es-201-912-protocol.html
 ---
 ES 201 912 is the European Telecommunications Standards Institute (ETSI) approved standard that allows the sending and receiving of Short Message Service (SMS) messages on <acronym title="Public Switched Telephone Network">PSTN</acronym>/<acronym title="Integrated Services Digital Network">ISDN</acronym> networks.
 

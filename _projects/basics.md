@@ -1,6 +1,6 @@
 ---
 title: OPENXTRA BASICS
-permalink: basics.html
+redirect_from: basics.html
 description: OPENXTRA Basics was a free software product produced by OPENXTRA Limited all the way back in 2003. It comprised a number of open source tools of use to the systems administrator or network manager. The package included network mapping, network monitoring and packet capture tools. It was all packaged together in a single installer with a cute Windows based GUI called OPENXTRA Commander.
 ---
 

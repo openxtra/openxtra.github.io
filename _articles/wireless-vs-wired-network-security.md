@@ -1,6 +1,6 @@
 ---
 title: "Wireless Network Security vs Wire Based Network Security"
-permalink: wireless-vs-wired-network-security.html
+redirect_from: wireless-vs-wired-network-security.html
 author: denis
 description: A discussion of wireless network security and how it differs from the security required for a traditional wire based network.
 ---

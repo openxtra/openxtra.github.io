@@ -1,6 +1,6 @@
 ---
 title: "Why is WEP crackable? How WEP weaknesses affect your wireless network security"
-permalink: wep-weaknesses.html
+redirect_from: wep-weaknesses.html
 author: denis
 description: An exploration of the security weaknesses of the Wired Equivalent Privacy (WEP).
 ---

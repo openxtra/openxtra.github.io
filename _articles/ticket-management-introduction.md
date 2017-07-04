@@ -1,6 +1,6 @@
 ---
 title: "Ticket Management Introduction"
-permalink: ticket-management-introduction.html
+redirect_from: ticket-management-introduction.html
 description: Ticket Management software allows you to log problems, allocate them to engineers and track the progress. Ticket Management tools are essential for the smooth running of all but the smallest networks. Which is the best Ticket Management solution for you?
 ---
 Ticket Management software allows you to log problems, allocate them to engineers and track the progress. Ticket Management tools are essential for the smooth running of all but the smallest networks. Which is the best Ticket Management solution for you?

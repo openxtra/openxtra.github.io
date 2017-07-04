@@ -1,6 +1,6 @@
 ---
 title: spready
-permalink: spready.html
+redirect_from: spready.html
 description: A command line spreadsheet compiler.
 ---
 

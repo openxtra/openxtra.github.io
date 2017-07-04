@@ -1,6 +1,6 @@
 ---
 title: Network Simulation Introduction
-permalink: network-simulation.html
+redirect_from: network-simulation.html
 description: Network simulation is a much underestimated tool in the network managers arsenal. When used properly they can help take some of the guesswork out of network planning.
 ---
 ## What is Network Simulation?

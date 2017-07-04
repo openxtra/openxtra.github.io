@@ -1,6 +1,6 @@
 ---
 title: "Network Cable Testing What Causes Data Loss?"
-permalink: network-cable-testing-data-loss.html
+redirect_from: network-cable-testing-data-loss.html
 author: denis
 description: An outline of the causes of network cable data loss and why gigabit cabling is more of a challenge than cables running at lower speeds.
 ---

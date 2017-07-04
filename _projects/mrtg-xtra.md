@@ -1,6 +1,6 @@
 ---
 title: MRTG-XTRA
-permalink: mrtg-xtra.html
+redirect_from: mrtg-xtra.html
 description: MRTG-XTRA was an easy to install package of the MRTG project for Microsoft Windows. It has now been discontinued.
 ---
 

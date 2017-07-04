@@ -1,6 +1,6 @@
 ---
 title: Warthog
-permalink: warthog.html
+redirect_from: warthog.html
 description: A simple Magento 2 theme. 
 ---
 

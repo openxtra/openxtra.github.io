@@ -2,7 +2,7 @@ title: OPENXTRA Freestuff
 email: info@openxtra.co.uk
 author: OPENXTRA Ltd.
 description: >
- OPENXTRA Ltd. has been around for a while and has, in the modern start-up parlance, pivoted a few times. We have built up a lot of software and content that doesn't really belong on the main website anymore. That's why the OPENXTRA Freestuff website was born as a place to put all of the content that would otherwise go to waste.
+ OPENXTRA have built up a lot of software and content that doesn't really belong on the main website anymore. That's why the OPENXTRA Freestuff website was born as a place to put all of the content that would otherwise go to waste.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://openxtra.org"
 twitter_username: openxtrahq
@@ -16,6 +16,7 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -27,8 +28,10 @@ google_analytics: UA-71383-43
 collections:
   projects:
         output: true
+        permalink: /project/:name
   articles:
         output: true
+        permalink: /article/:name
 defaults:
   - scope:
       path: ""

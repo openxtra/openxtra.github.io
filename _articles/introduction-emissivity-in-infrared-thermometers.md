@@ -1,6 +1,6 @@
 ---
 title: An Introduction to Emissivity in Infrared Thermometers
-permalink: introduction-emissivity-in-infrared-thermometers.html
+redirect_from: introduction-emissivity-in-infrared-thermometers.html
 author: denis
 description: An introduction to material emissivity and how it affects measurement using an infrared thermometer or radiation thermometer.
 ---

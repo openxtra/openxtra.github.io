@@ -1,6 +1,6 @@
 ---
 title: OPENXTRA Console
-permalink: console.html
+redirect_from: console.html
 description: OPENXTRA Console is a convenient way to quickly and easily view the readings from the Sensatronics range of temperature &amp; environmental monitoring equipment using Google Desktop.
 ---
 

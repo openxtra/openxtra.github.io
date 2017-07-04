@@ -1,6 +1,6 @@
 ---
 title: "Cable Performance Requirements for Copper Cable Testing"
-permalink: cable-performance-requirements-copper-cable-testing.html
+redirect_from: cable-performance-requirements-copper-cable-testing.html
 author: denis
 description: The ANSI/TIA/EIA 568 B standard covers two types of links
 ---

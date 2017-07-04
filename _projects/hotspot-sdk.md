@@ -1,6 +1,6 @@
 ---
 title: HotSpot SDK
-permalink: hotspot-sdk.html
+redirect_from: hotspot-sdk.html
 description: HotSpot SDK is a software development kit for talking to the Sensatronics range of environment monitors.
 ---
 

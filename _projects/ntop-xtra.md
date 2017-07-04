@@ -1,6 +1,6 @@
 ---
 title: NTop-XTRA
-permalink: ntop-xtra.html
+redirect_from: ntop-xtra.html
 description: NTop-XTRA was an easy to install distribution of NTop for Microsoft Windows. It has now been discontinued.
 ---
 

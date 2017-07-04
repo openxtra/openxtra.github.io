@@ -1,6 +1,6 @@
 ---
 title: Ethereal-XTRA
-permalink: ethereal-xtra.html
+redirect_from: ethereal-xtra.html
 description: Ethereal-XTRA was an easy to install distribution of the Ethereal project. It has now been discontinued.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Network Cable Testing Introduction
-permalink: network-cable-testing-introduction.html
+redirect_from: network-cable-testing-introduction.html
 author: denis
 description: Network Cable Testing, the physical and electrical testing of Network cabling, is a very specialist area. As a Network Manager you have to deal with cable faults, broken wires, incompatibilities and a host of other cable related issues. What can you do? What do you need to test for?
 ---

@@ -1,6 +1,6 @@
 ---
 title: OPENXTRA HotSpot Sidebar Gadget
-permalink: gadget.html
+redirect_from: gadget.html
 description: OPENXTRA HotSpot Sidebar Gadget is a convenient way to quickly and easily view the readings from the Sensatronics range of temperature &amp; environmental monitoring equipment in the now defunct Windows Sidebar.
 ---
 

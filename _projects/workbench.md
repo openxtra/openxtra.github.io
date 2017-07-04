@@ -1,6 +1,6 @@
 ---
 title: Constraint Workbench
-permalink: workbench.html
+redirect_from: workbench.html
 description: An experiment to build a constraint workbench.
 ---
 

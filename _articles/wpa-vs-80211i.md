@@ -1,6 +1,6 @@
 ---
 title: "WPA vs WPA2 (802.11i): How your Choice Affects your Wireless Network Security"
-permalink: wpa-vs-80211i.html
+redirect_from: wpa-vs-80211i.html
 author: denis
 description: A discussion of why 802.11i (WPA2) provides stronger wireless security than WiFi Protected Access (WPA) and WEP, why there is a need for a new standard and why you should use it.
 ---
