@@ -25,10 +25,13 @@ exclude:
   - run-dev-server.sh
 include: ['_pages']
 google_analytics: UA-71383-43
+disqus:
+  shortname: openxtra-org
 collections:
   projects:
         output: true
         permalink: /project/:name
+        comments: false
   articles:
         output: true
         permalink: /article/:name
