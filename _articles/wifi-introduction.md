@@ -3,14 +3,13 @@ title: An Introduction to Wireless Networks for the Small/Medium Enterprise
 author: denis
 description: Wireless Networking, WiFi, is not a new technology, but it is only recently that it has become mainstream. What are the benefits of wireless networks and should you be considering using it?
 ---
-
 The advent of portable computing devices is one of the main drivers for the adoption of wireless networking. Today, around 50% of new laptops come wireless enabled out of the box. All of Apple’s latest line of laptops come with both wireless &amp; bluetooth built in. Many Microsoft Windows laptops are similarly wireless enabled.
 
 A powerful alliance of vendors joined together in 1999 to form the [WiFi Alliance](http://www.wi-fi.com/). You can be assured that any device approved by the WiFi Alliance will interoperate happily with any other approved device. The term WiFi has become corrupted in common usage to mean wireless networks in general, not just devices approved by the WiFi alliance.
 
 ## Why adopt WiFi?
 
-Today’s workforce, equipped with PDAs, laptops and other mobile devices, demand access to your network from wherever they are, without the hassle of a fixed network. WiFi allows your business to deploy a network more quickly, at lower cost, and with greater flexibility than a wired system.
+Today’s workforce, equipped with tablets, laptops and other mobile devices, demand access to your network from wherever they are, without the hassle of a fixed network. WiFi allows your business to deploy a network more quickly, at lower cost, and with greater flexibility than a wired system.
 
 Productivity increases too, since workers can stay connected longer, and are able to collaborate with their co-workers as and where needed.
 
