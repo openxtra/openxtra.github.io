@@ -1,5 +1,5 @@
-﻿---
-title: An Introduction to Wireless Networks for the Small/Medium Enterprise
+---
+title: "An Introduction to Wireless Networks for the Small/Medium Enterprise"
 author: denis
 description: Wireless Networking, WiFi, is not a new technology, but it is only recently that it has become mainstream. What are the benefits of wireless networks and should you be considering using it?
 ---
