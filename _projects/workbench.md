@@ -8,3 +8,10 @@ I've had an [itch to build a constraint workbench tool for a very long time](htt
 
 The project has been under intermittent development since April 2015 in my 5 o'clock time i.e. the time I give myself to work on speculative or educational projects between 5 and 6pm Monday to Friday. The sources are [hosted on GitHub](https://github.com/digitalbricklayer/workbench).
 
+## Model Editor
+
+![Workbench Displaying a Model](https://techteapot.com/wp-content/uploads/2016/10/workbench-model-nqueens-1024x611.png)
+
+## Solution
+
+![n-queens solution](https://techteapot.com/wp-content/uploads/2016/10/workbench-solution-nqueens-768x761.png)
