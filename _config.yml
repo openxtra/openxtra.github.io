@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
-exclude:
+exclude: # do *NOT* add README.md here... it will silently break the site
   - CNAME
   - LICENSE
   - run-dev-server.sh
