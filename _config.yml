@@ -22,6 +22,7 @@ exclude:
   - LICENSE
   - run-dev-server.sh
   - docker-compose.yml
+  - README.md
 include: ['_pages']
 google_analytics: UA-71383-43
 disqus:
